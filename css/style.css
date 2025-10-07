@@ -227,6 +227,19 @@ nav ul li a:hover {
 }
 
 /* =========================
+   CERTIFICATIONS SECTION
+========================= */
+.cert-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  background-color: #ffffff; /* Adds a white background for transparent logos */
+  padding: 5px; /* Adds a little space around the logo inside the square */
+}
+
+/* =========================
    CONTACT SECTION
 ========================= */
 .contact {
